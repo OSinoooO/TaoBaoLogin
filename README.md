@@ -11,6 +11,8 @@ selenium + Firefox + mitmproxy 模拟淘宝登陆
 - track.js:  获取滑块验证吗人工轨迹。
 
 ## 版本信息
+python (3.6.3)
+
 selenium (3.13.0)
 
 mitmproxy (4.0.4)
